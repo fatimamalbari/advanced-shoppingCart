@@ -42,19 +42,6 @@ const StoreItems = ({ id, name, price, imgUrl }: IProducts) => {
                 </div>
               </>
             )
-              // <>
-              //   <div className='d-flex align-items-center flex-column' style={{ gap: '.5rem' }}>
-              //     <Button> - </Button>
-              //     <span className='fs-3'>
-              //       {quantity}
-              //     </span> in cart
-              //     <Button> + </Button>
-              //   </div>
-              //   <Button variant='danger' size='sm'>Remove</Button>
-              //   <div className='d-flex align-items-center justify-content-center' style={{ gap: '.5rem' }}>
-              //     Bye
-              //   </div>
-              // </>
             }
           </div>
         </Card.Body>
