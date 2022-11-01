@@ -63,4 +63,4 @@ const StoreItems = ({ id, name, price, imgUrl }: IProducts) => {
   )
 }
 
-export default StoreItems;      
+export default StoreItems;
